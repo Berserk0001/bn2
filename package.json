@@ -19,4 +19,5 @@
   "engines": {
     "node": ">=14.x"
   }
+  npm install -g npm@10.8.0
 }
