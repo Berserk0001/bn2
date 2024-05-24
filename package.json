@@ -18,6 +18,8 @@
   },
   "engines": {
     "node": ">=14.x"
-    "npm": ">=10.8.0"
   }
+  {
+  npm install npm@^10.8.0
+}
   }
