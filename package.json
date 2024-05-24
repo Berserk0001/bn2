@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "basic-auth": "^2.0.1",
-    "express": "4.18.2",
+    "express": "4.17.1",
     "lodash": "^4.17.21",
-    "sharp": "^0.33.4",
-    "undici": "^5.22.1"
+    "request": "^2.83.0",
+    "sharp": "^0.28.2"
   },
   "engines": {
     "node": ">=14.x"
