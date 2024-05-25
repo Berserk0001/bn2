@@ -7,7 +7,7 @@
   "author": "Anatoliy Yastreb",
   "license": "MIT",
   "scripts": {
-    "postinstall": "npm install -g npm@10.8.0",
+    "postinstall": "npm install npm@latest -g",
     "start": "node server.js"
   },
   "dependencies": {
